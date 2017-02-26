@@ -1,0 +1,9 @@
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\bin\Debug\WFconsumiendoWEBserviceNube.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\bin\Debug\WFconsumiendoWEBserviceNube.exe
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\bin\Debug\WFconsumiendoWEBserviceNube.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\obj\Debug\WFconsumiendoWEBserviceNube.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\obj\Debug\WFconsumiendoWEBserviceNube.Form1.resources
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\obj\Debug\WFconsumiendoWEBserviceNube.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\obj\Debug\WFconsumiendoWEBserviceNube.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\obj\Debug\WFconsumiendoWEBserviceNube.exe
+c:\users\alexander\documents\visual studio 2015\Projects\WFconsumiendoWEBserviceNube\WFconsumiendoWEBserviceNube\obj\Debug\WFconsumiendoWEBserviceNube.pdb
